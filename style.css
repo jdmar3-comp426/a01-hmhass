@@ -41,3 +41,10 @@ a[href]:hover {
     color: gold;
 }
 
+.tenthselector {
+    font-stretch: extra-condensed;
+}
+
+h2 {
+    column-gap: 0ch;
+}
