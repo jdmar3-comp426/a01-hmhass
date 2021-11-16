@@ -1,0 +1,50 @@
+h1 {
+    font-family: fantasy;
+}
+
+p {
+    font-family: monospace;
+}
+
+.fire {
+    background-color: #F17E0B;
+}
+
+.border {
+    border-style: solid;
+}
+
+a[href]:hover {
+    color: black;
+}
+
+#bare-minimum {
+    color:chartreuse;
+}
+
+.dad h5{
+    color:crimson;
+}
+
+.sizerino {
+    height: 500px;
+    width: 50%;
+    background-color: darkblue;
+}
+
+#sibs:hover {
+    background-color: darkgreen;
+    font-size: xx-large;
+}
+
+* {
+    color: gold;
+}
+
+.tenthselector {
+    font-stretch: extra-condensed;
+}
+
+h2 {
+    column-gap: 0ch;
+}
